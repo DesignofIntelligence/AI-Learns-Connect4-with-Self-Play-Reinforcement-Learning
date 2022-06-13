@@ -5,3 +5,10 @@ The training process occur by collecting the data, mirroring it (as connect4 con
 
 
 The 3 networks then are used as an ensemble to play against the human player, it have reached a level as good as a Monte-Carlo 2000 Rollout. and it can defeat a professional human player.
+
+
+Run
+
+```
+python main.py
+```
