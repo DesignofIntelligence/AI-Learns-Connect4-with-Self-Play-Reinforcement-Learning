@@ -10,5 +10,6 @@ The 3 networks then are used as an ensemble to play against the human player, it
 Run
 
 ```
+cd AI-Learns-Connect4-with-Self-Play-Reinforcement-Learning
 python main.py
 ```
